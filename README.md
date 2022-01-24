@@ -4,4 +4,4 @@
     
   An open, crowd-sourced database of Recipes from around the world
 
-  A website where user can add & delete RECIPES user wish and view in youtube provided in recipe cards
+  A website where user can search,add & delete RECIPES user wish and view in youtube provided in recipe cards
