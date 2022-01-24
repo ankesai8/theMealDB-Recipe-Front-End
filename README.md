@@ -1,6 +1,6 @@
 # [Click](https://mealdb-9989.netlify.app/) for the Deployed Link of theMealDb Recipe  
 
-# [Welcome to TheMealDB:]https://github.com/ankesai8/theMealDB-Recipe-Front-End) 
+# [Welcome to TheMealDB]https://github.com/ankesai8/theMealDB-Recipe-Front-End) 
     
   An open, crowd-sourced database of Recipes from around the world
 
