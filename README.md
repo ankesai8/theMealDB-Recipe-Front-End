@@ -1,4 +1,4 @@
-# [Click](https://mealdb-9989.netlify.app/) for the Deployed Link of theMealDb Recipe  
+# [Click](https://heartfelt-custard-1b6193.netlify.app/) for the Deployed Link of theMealDb Recipe  
 
 # [Welcome to theMealDb](https://github.com/ankesai8/theMealDB-Recipe-Front-End)
     
